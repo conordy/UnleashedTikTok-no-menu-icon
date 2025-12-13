@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">UnleashedTikTok</string>
+    <string-array name="module_scope" translatable="false">
+        <item>com.zhiliaoapp.musically</item>
+        <item>com.ss.android.ugc.trill</item>
+    </string-array>
+</resources>
