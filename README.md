@@ -12,3 +12,5 @@ No paywalls.
 No remote servers.
 
 Just hooks.
+
+### NOTE: If you are using TikTokModCloud, you need to disable downloading through Telegram in the plugin.
